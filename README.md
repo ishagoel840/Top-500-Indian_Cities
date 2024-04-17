@@ -6,7 +6,7 @@ The Top-500-Indian-Cities data set merges the census 2011 of Indian Cities with 
 ## Dataset Overview
 ###### Total Entries: The dataset contains 493 entries.
 ###### Columns: There are 17 columns in the dataset:
-You are hired as an Excel expert by the Government of India to investigate Top 500 Indian cities’ statistical indicators. You have been supplied with a dataset and you need to find insights from the data.
+
 
 #### Key Details
 
@@ -30,6 +30,7 @@ You are hired as an Excel expert by the Government of India to investigate Top 5
 
 
 ## Questions to Answer:
+#### You are hired as an Excel expert by the Government of India to investigate Top 500 Indian cities’ statistical indicators. You have been supplied with a dataset and you need to find insights from the data.
 
 1. Which states have the highest population count?
 2. Compare the literacy rates across various states.
