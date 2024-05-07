@@ -1,6 +1,6 @@
 # Top-500- Indian Cities
 ###### Tools used: Microsoft Excel
-![pexels-lara-jameson-8828586](https://github.com/ishagoel840/Top-500-Indian_Cities/assets/163164421/bf394578-18b1-4a5b-94d1-bc82e1a8837d)
+
 ## About Dataset
 The Top-500-Indian-Cities data set merges the census 2011 of Indian Cities with Population more than 1 Lac and City wise number of Graduates from the Census 2011, to create a visualization of where the future cities of India stands today. It aims to explore the Top 500 Cities of India.
 
